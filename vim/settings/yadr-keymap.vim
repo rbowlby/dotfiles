@@ -12,11 +12,14 @@ nnoremap ,yw yiww
 " FIXME: will not properly repeat when you use a dot (tie into repeat.vim)
 nnoremap ,ow "_diwhp
 
+
+" R.B. how obnoxiously self-important to override low-level VIM functionality!
 "make Y consistent with C and D
-nnoremap Y y$
-function! YRRunAfterMaps()
-  nnoremap Y   :<C-U>YRYankCount 'y$'<CR>
-endfunction
+" functionality
+" nnoremap Y y$
+" function! YRRunAfterMaps()
+"   nnoremap Y   :<C-U>YRYankCount 'y$'<CR>
+" endfunction
 
 " ========================================
 " RSI Prevention - keyboard remaps
