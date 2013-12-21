@@ -125,3 +125,6 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	name = Ryan Bowlby
+	email = rbowlby83@gmail.com
