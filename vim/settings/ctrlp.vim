@@ -25,7 +25,9 @@ nnoremap <silent> ,t :CtrlP<CR>
 
 " Additional mapping for buffer search
 nnoremap <silent> ,b :CtrlPBuffer<cr>
-nnoremap <silent> <C-b> :CtrlPBuffer<cr>
+
+" R.B. seriously? page up much?
+" nnoremap <silent> <C-b> :CtrlPBuffer<cr>
 
 " Cmd-Shift-P to clear the cache
 nnoremap <silent> <D-P> :ClearCtrlPCache<cr>
