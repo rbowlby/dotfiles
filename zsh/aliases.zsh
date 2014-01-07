@@ -3,6 +3,9 @@
 # Don't change. The following determines where YADR is installed.
 yadr=$HOME/.yadr
 
+# vagrant
+alias v='vagrant'
+
 # YADR support
 alias yav='yadr vim-add-plugin'
 alias ydv='yadr vim-delete-plugin'
