@@ -34,6 +34,7 @@ Bundle "ck3g/vim-change-hash-syntax"
 Bundle "briancollins/vim-jst"
 Bundle "pangloss/vim-javascript"
 Bundle "rodjek/vim-puppet"
+Bundle "dougireton/vim-chef"
 
 " Html, Xml, Css, Markdown...
 Bundle "claco/jasmine.vim"
