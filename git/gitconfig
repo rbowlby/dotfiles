@@ -128,3 +128,5 @@
 [user]
 	name = Ryan Bowlby
 	email = rbowlby83@gmail.com
+[credential]
+	helper = osxkeychain
